@@ -27,7 +27,7 @@ a, button {
 }
 
 a {
-	color: #566473;
+	color: #ffffff;
 	text-decoration: none;
 }
 
@@ -128,7 +128,7 @@ p.ref {
 
 .codrops-demos a:hover,
 .codrops-demos a.current-demo {
-	border-color: #ffffff;
+	border-color: #383a3c;
 }
 
 .codrops-demos h3 {
